@@ -601,10 +601,6 @@ The project is implemented in Python and uses the following libraries:
 
 - **Joblib** — saving and loading the trained machine learning pipeline
 
-### XGBoost
-
-`XGBClassifier` is imported in the notebook, although it is not included in the evaluated `models` dictionary or the final training workflow.
-
 ## Installation
 
 Create and activate a Python virtual environment, then install the required packages.
